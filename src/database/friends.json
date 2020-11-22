@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://images.squarespace-cdn.com/content/v1/565caa88e4b09e258567d8a8/1450381341067-VYCTS5ZYGKBV4CVIWIG0/ke17ZwdGBToddI8pDm48kKqg-qK6pdjoFOIUP_i89LhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIDT4S2JSzyYKYcN5qHerR1ClmausrnSceiJliHPL8Igw/Female+Avatar",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://cdn3.iconfinder.com/data/icons/avatars-business-human1/180/woman2-512.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://cdn.iconscout.com/icon/free/png-256/avatar-367-456319.png",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/avat-01-512.png",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-512.png",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
